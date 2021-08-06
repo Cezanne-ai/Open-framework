@@ -14,11 +14,17 @@ In order to assist, we give you the following:
 
 The framework consists of 3 main layers that can be implemented independently depending on your NLP/Conversational AI tasks:
 1. Natural Input Understanding (an extension of NLU) with 2 sub-layers: Machine Education and Machine Learning
+
 [NIU-NLU - Machine Education architecture.pdf](https://github.com/Cezanne-ai/Open-framework/files/6946282/NIU-NLU.-.Machine.Education.architecture.pdf)
+
 [NIU-NLU - Machine Learning architecture.pdf](https://github.com/Cezanne-ai/Open-framework/files/6946315/NIU-NLU.-.Machine.Learning.architecture.pdf)
-3. Conversational Policy Learning (an extension of DPL)
+
+2. Conversational Policy Learning (an extension of DPL)
+
 [CPL architecture.pdf](https://github.com/Cezanne-ai/Open-framework/files/6946314/CPL.architecture.pdf)
-5. Natural Output Generation (an extension of NLG)
+
+3. Natural Output Generation (an extension of NLG)
+
 [NOG-NLG architecture.pdf](https://github.com/Cezanne-ai/Open-framework/files/6946316/NOG-NLG.architecture.pdf)
 
 This three layers have in total 50 pipelines (not all mandatory, but recommended to have a fundamental background and cover also complex objectives in the conversation user-bot)
