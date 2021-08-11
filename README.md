@@ -30,6 +30,9 @@ The framework consists of 3 main layers that can be implemented independently de
 This three layers have in total 50 pipelines (not all mandatory, but recommended to have a fundamental background and cover also complex objectives in the conversation user-bot)
 
 
+COMPLYING WITH THE SAFETY ISSUES (related to the AGI implications) PRESENTED IN THE SUBSEQUENT FILE OF THE REPOSITORY IS BINDING!
+
+
 
 
 
