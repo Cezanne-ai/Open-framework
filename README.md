@@ -4,7 +4,7 @@ We present the Cezanne-ai challenge and we will try to convince you to use our C
 1. your own code, 
 2. own language, 
 3. desired domains,
-4. with your existing data (limited or not). 
+4. with your existing data (limited or not - please check the data-prerequisites file in this repository; be aware that not all the datasets/corpuses are mandatory). 
 
 In order to assist, we give you the following:
 1. an architecture that was designed to cover complex objectives in conversational AI (based on the research paper: "Cezanne-ai: a conversational AI open-framework for multi-domains, all the languages and limited data" - Coman et al.,2021 - pending journal submission/acceptance) 
