@@ -7,7 +7,7 @@ We present the Cezanne-ai challenge and we will try to convince you to use our C
 4. with your existing data (limited or not - please check the data-prerequisites file in this repository; be aware that not all the datasets/corpuses are mandatory). 
 
 In order to assist, we give you the following:
-1. an architecture that was designed to cover complex objectives in conversational AI (based on the research paper: "Cezanne-ai: a conversational AI framework for emerging languages and limited data" - Coman et al.,2021 - pending journal submission/acceptance) 
+1. an architecture that was designed to cover complex objectives in conversational AI (based on the research paper: "Cezanne-ai: a conversational AI framework for emerging languages and limited data" - Coman et al.,2021 - see uploaded Cezanne.ai paper in the project documentation repository) 
 2. 50+1 pipelines described step-by-step (see the dummy code of this repository and the repository: Project-documentation. The additional pipeline (SPCA: sentence-intent) can either be requested: florincoman15@gmail.com, either be developed from scratch - see Cezanne-ai paper for intuition)
 3. we will work together with you at the implementation (check out the Cezanne-ai complete repositories. We will try to keep up with you.), 
 4. we will share good practices and more efficient implementations from other contributors. 
